@@ -2,7 +2,7 @@
 Travel Guider is a responsive TripAdvisor-inspired frontend web design built using HTML and CSS.
 
 # How to see
-you can see my project by this 
+you can see my project by this https://mega-varshini.github.io/Trip-advisor-website/
 
 
 ## Features
